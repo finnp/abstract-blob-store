@@ -10,13 +10,13 @@
   "license": "BSD",
   "dependencies": {
     "concat-stream": "^1.4.6",
-    "from2-array": "0.0.3"
+    "from2-array": "0.0.4"
   },
   "directories": {
     "test": "tests"
   },
   "devDependencies": {
-    "tape": "^2.14.0"
+    "tape": "^4.5.1"
   },
   "repository": {
     "type": "git",
